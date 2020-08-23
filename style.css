@@ -1,0 +1,30 @@
+body {
+  background-color: pink;
+}
+p,
+span,
+.resultField {
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.container {
+  text-align: center;
+}
+.PercentageCalculators {
+  color: red;
+}
+input {
+  border-radius: 7px;
+  border: red 1px solid;
+  width: 100px;
+}
+.submit,
+.numField1,
+.numField2 {
+  color: white;
+  background-color: red;
+  font-weight: bold;
+  font-size: 18px;
+}
